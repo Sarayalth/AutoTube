@@ -1,0 +1,11 @@
+{
+ "content_scripts": [
+    {
+      "matches": [ "http://www.youtube.com/*", "https://www.youtube.com/*" ],
+	  "js": [ "ytauto.js" ]
+    } ],
+   "name": "AutoTube",
+"icons": { "1280": "icon1280.png" },
+ "version": "1.0",
+ "manifest_version": 2
+}
