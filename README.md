@@ -1,3 +1,5 @@
+# AutoTube
+
 This little chrome extension just adds a switch to toggle auto replay of the current video.
 
 I made it because every extension that do this adds some stupid menu that don't fit with the YT theme.
