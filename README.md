@@ -7,6 +7,6 @@ It looks like this:
 ![sdf](http://i.imgur.com/L114mBe.png "It looks like this")
 
 
-Firefox Addon: https://addons.mozilla.org/en-US/firefox/addon/autotube/
-Edge(Chromium) Extension: Uploading
+Firefox Addon: https://addons.mozilla.org/en-US/firefox/addon/autotube/  
+Edge(Chromium) Extension: Uploading  
 Chrome Extension: Download zip from releases, extract to a folder, activate Developer Mode in chrome://extensions and load the unpacked extension
