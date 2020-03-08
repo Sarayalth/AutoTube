@@ -1,12 +1,10 @@
 # AutoTube
 
-This extension adds a switch to toggle auto replay of the current YouTube video.
+This little chrome extension just adds a switch to toggle auto replay of the current video.
+
+I made it because every extension that do this adds some stupid menu that don't fit with the YT theme.
 
 It looks like this: 
 
+
 ![sdf](http://i.imgur.com/L114mBe.png "It looks like this")
-
-
-Firefox Addon: https://addons.mozilla.org/en-US/firefox/addon/autotube/
-Edge(Chromium) Extension: Uploading
-Chrome Extension: Download zip from releases, extract to a folder, activate Developer Mode in chrome://extensions and load the unpacked extension
