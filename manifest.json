@@ -1,11 +1,17 @@
 {
- "content_scripts": [
-    {
-      "matches": [ "http://www.youtube.com/*", "https://www.youtube.com/*" ],
-	  "js": [ "ytauto.js" ]
-    } ],
+   "description": "Adds a switch to toggle auto replay of the current YouTube video",
+   "manifest_version": 2,
    "name": "AutoTube",
-"icons": { "1280": "icon1280.png" },
- "version": "1.0",
- "manifest_version": 2
+   "version": "1.0",
+   "homepage_url": "https://github.com/Sarayalth/AutoTube",
+   "icons": {
+     "1280": "icons/icon1280.png"
+   },
+ 
+   "content_scripts": [
+     {
+       "matches": [ "http://www.youtube.com/*", "https://www.youtube.com/*"],
+       "js": ["ytauto.js"]
+     }
+   ]
 }
